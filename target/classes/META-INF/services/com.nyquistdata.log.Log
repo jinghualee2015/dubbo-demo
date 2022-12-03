@@ -1,0 +1,2 @@
+com.nyquistdata.log.impl.Log4j
+com.nyquistdata.log.impl.Logback
